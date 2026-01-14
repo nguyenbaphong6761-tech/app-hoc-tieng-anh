@@ -2,22 +2,9 @@ import streamlit as st
 import json
 import os
 
-# ===== FILE LƯU TIẾN ĐỘ =====
-DATA_FILE = "progress.json"
-
-def load_data():
-    if os.path.exists(DATA_FILE):
-        with open(DATA_FILE, "r", encoding="utf-8") as f:
-            return json.load(f)
-    return {}
-
-def save_data(data):
-    with open(DATA_FILE, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
-
-# ===== CẤU HÌNH MOBILE =====
+# ===== CONFIG MOBILE =====
 st.set_page_config(
-    page_title="Business English Mobile",
+    page_title="TOEIC 300 Mobile",
     page_icon="📘",
     layout="centered",
     initial_sidebar_state="collapsed"
@@ -26,92 +13,61 @@ st.set_page_config(
 st.markdown("""
 <style>
 button {width:100%; font-size:18px;}
-p, li, label {font-size:18px;}
-h1, h2, h3 {text-align:center;}
+p, label {font-size:18px;}
+h1,h2,h3 {text-align:center;}
 </style>
 """, unsafe_allow_html=True)
 
-# ===== DỮ LIỆU BÀI HỌC =====
-lessons = {
-    "Chào hỏi": {
-        "vocab": ["Meeting", "Partner", "Schedule"],
-        "sentences": [
-            "Nice to meet you.",
-            "I look forward to working with you."
-        ]
-    },
-    "Bán hàng": {
-        "vocab": ["Price", "Discount", "Order"],
-        "sentences": [
-            "This is our best price.",
-            "When will you place the order?"
-        ]
-    }
-}
-
 # ===== LOAD DATA =====
-data = load_data()
+with open("toeic_words.json", "r", encoding="utf-8") as f:
+    words = json.load(f)
 
-# ===== USER LOGIN ĐƠN GIẢN =====
-st.title("📘 Business English")
+PROGRESS_FILE = "progress.json"
+
+def load_progress():
+    if os.path.exists(PROGRESS_FILE):
+        with open(PROGRESS_FILE, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return {}
+
+def save_progress(p):
+    with open(PROGRESS_FILE, "w", encoding="utf-8") as f:
+        json.dump(p, f, ensure_ascii=False, indent=2)
+
+progress = load_progress()
+
+# ===== USER =====
+st.title("📘 TOEIC 300")
 user = st.text_input("👤 Nhập tên của bạn")
 
 if not user:
     st.stop()
 
-if user not in data:
-    data[user] = {"lessons": [], "quiz_score": 0}
-    save_data(data)
+if user not in progress:
+    progress[user] = []
+    save_progress(progress)
 
-menu = st.radio(
-    "📌 Chọn chức năng",
-    ["📚 Bài học", "📝 Quiz", "📊 Tiến độ"],
-    horizontal=True
-)
+# ===== CHỌN BÀI =====
+lesson_ids = [f"Lesson {w['id']}" for w in words]
+lesson = st.selectbox("📚 Chọn bài học", lesson_ids)
 
-# ===== BÀI HỌC =====
-if menu == "📚 Bài học":
-    lesson_name = st.selectbox("Chọn bài học", lessons.keys())
-    lesson = lessons[lesson_name]
+lesson_id = int(lesson.split()[1])
+word = next(w for w in words if w["id"] == lesson_id)
 
-    st.subheader("📌 Từ vựng")
-    for v in lesson["vocab"]:
-        st.write("👉", v)
+# ===== HIỂN THỊ =====
+st.subheader(f"Lesson {word['id']}")
+st.markdown(f"### 🔤 {word['word']}")
+st.markdown(f"**📖 Nghĩa:** {word['meaning']}")
+st.markdown(f"**💬 Ví dụ:** {word['example']}")
 
-    st.subheader("💬 Mẫu câu")
-    for s in lesson["sentences"]:
-        st.write("•", s)
-
-    if st.button("✅ Đánh dấu đã học"):
-        if lesson_name not in data[user]["lessons"]:
-            data[user]["lessons"].append(lesson_name)
-            save_data(data)
-            st.success("Đã lưu tiến độ!")
-
-# ===== QUIZ =====
-if menu == "📝 Quiz":
-    st.subheader("Kiểm tra nhanh")
-
-    q1 = st.radio("Discount nghĩa là gì?", ["Giá", "Chiết khấu", "Đơn hàng"])
-    q2 = st.radio("Order nghĩa là gì?", ["Đối tác", "Đơn hàng", "Cuộc họp"])
-
-    if st.button("📤 Nộp bài"):
-        score = 0
-        if q1 == "Chiết khấu":
-            score += 1
-        if q2 == "Đơn hàng":
-            score += 1
-
-        data[user]["quiz_score"] = score
-        save_data(data)
-        st.success(f"🎯 Điểm của bạn: {score}/2")
+if st.button("✅ Đã học xong"):
+    if lesson_id not in progress[user]:
+        progress[user].append(lesson_id)
+        save_progress(progress)
+        st.success("Đã lưu tiến độ!")
 
 # ===== TIẾN ĐỘ =====
-if menu == "📊 Tiến độ":
-    st.subheader("📈 Tiến độ học tập")
-
-    st.write("📚 Bài đã hoàn thành:")
-    for l in data[user]["lessons"]:
-        st.write("✅", l)
-
-    st.write(f"📝 Điểm Quiz gần nhất: **{data[user]['quiz_score']} / 2**")
+st.divider()
+done = len(progress[user])
+st.write(f"📊 Tiến độ: **{done} / 300 bài**")
+st.progress(done / 300)
