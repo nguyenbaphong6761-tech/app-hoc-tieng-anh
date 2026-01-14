@@ -1,0 +1,2389 @@
+[
+  {
+    "id": 1,
+    "word": "agenda",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Agenda is commonly used in business communication."
+  },
+  {
+    "id": 2,
+    "word": "minutes",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Minutes is commonly used in business communication."
+  },
+  {
+    "id": 3,
+    "word": "memo",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Memo is commonly used in business communication."
+  },
+  {
+    "id": 4,
+    "word": "schedule",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Schedule is commonly used in business communication."
+  },
+  {
+    "id": 5,
+    "word": "deadline",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Deadline is commonly used in business communication."
+  },
+  {
+    "id": 6,
+    "word": "approval",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Approval is commonly used in business communication."
+  },
+  {
+    "id": 7,
+    "word": "procedure",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Procedure is commonly used in business communication."
+  },
+  {
+    "id": 8,
+    "word": "policy",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Policy is commonly used in business communication."
+  },
+  {
+    "id": 9,
+    "word": "regulation",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Regulation is commonly used in business communication."
+  },
+  {
+    "id": 10,
+    "word": "document",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Document is commonly used in business communication."
+  },
+  {
+    "id": 11,
+    "word": "appointment",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Appointment is commonly used in business communication."
+  },
+  {
+    "id": 12,
+    "word": "authorization",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Authorization is commonly used in business communication."
+  },
+  {
+    "id": 13,
+    "word": "signature",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Signature is commonly used in business communication."
+  },
+  {
+    "id": 14,
+    "word": "record",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Record is commonly used in business communication."
+  },
+  {
+    "id": 15,
+    "word": "instruction",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Instruction is commonly used in business communication."
+  },
+  {
+    "id": 16,
+    "word": "guideline",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Guideline is commonly used in business communication."
+  },
+  {
+    "id": 17,
+    "word": "notification",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Notification is commonly used in business communication."
+  },
+  {
+    "id": 18,
+    "word": "announcement",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Announcement is commonly used in business communication."
+  },
+  {
+    "id": 19,
+    "word": "arrangement",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Arrangement is commonly used in business communication."
+  },
+  {
+    "id": 20,
+    "word": "organization",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Organization is commonly used in business communication."
+  },
+  {
+    "id": 21,
+    "word": "coordination",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Coordination is commonly used in business communication."
+  },
+  {
+    "id": 22,
+    "word": "registration",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Registration is commonly used in business communication."
+  },
+  {
+    "id": 23,
+    "word": "confirmation",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Confirmation is commonly used in business communication."
+  },
+  {
+    "id": 24,
+    "word": "extension",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Extension is commonly used in business communication."
+  },
+  {
+    "id": 25,
+    "word": "revision",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Revision is commonly used in business communication."
+  },
+  {
+    "id": 26,
+    "word": "submission",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Submission is commonly used in business communication."
+  },
+  {
+    "id": 27,
+    "word": "compliance",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Compliance is commonly used in business communication."
+  },
+  {
+    "id": 28,
+    "word": "attendance",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Attendance is commonly used in business communication."
+  },
+  {
+    "id": 29,
+    "word": "distribution",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Distribution is commonly used in business communication."
+  },
+  {
+    "id": 30,
+    "word": "filing",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Filing is commonly used in business communication."
+  },
+  {
+    "id": 31,
+    "word": "archiving",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Archiving is commonly used in business communication."
+  },
+  {
+    "id": 32,
+    "word": "documentation",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Documentation is commonly used in business communication."
+  },
+  {
+    "id": 33,
+    "word": "format",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Format is commonly used in business communication."
+  },
+  {
+    "id": 34,
+    "word": "template",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Template is commonly used in business communication."
+  },
+  {
+    "id": 35,
+    "word": "revision",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Revision is commonly used in business communication."
+  },
+  {
+    "id": 36,
+    "word": "update",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Update is commonly used in business communication."
+  },
+  {
+    "id": 37,
+    "word": "request",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Request is commonly used in business communication."
+  },
+  {
+    "id": 38,
+    "word": "inquiry",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Inquiry is commonly used in business communication."
+  },
+  {
+    "id": 39,
+    "word": "response",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Response is commonly used in business communication."
+  },
+  {
+    "id": 40,
+    "word": "follow-up",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Follow-up is commonly used in business communication."
+  },
+  {
+    "id": 41,
+    "word": "clarification",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Clarification is commonly used in business communication."
+  },
+  {
+    "id": 42,
+    "word": "instruction",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Instruction is commonly used in business communication."
+  },
+  {
+    "id": 43,
+    "word": "procedure",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Procedure is commonly used in business communication."
+  },
+  {
+    "id": 44,
+    "word": "workflow",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Workflow is commonly used in business communication."
+  },
+  {
+    "id": 45,
+    "word": "assignment",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Assignment is commonly used in business communication."
+  },
+  {
+    "id": 46,
+    "word": "responsibility",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Responsibility is commonly used in business communication."
+  },
+  {
+    "id": 47,
+    "word": "authority",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Authority is commonly used in business communication."
+  },
+  {
+    "id": 48,
+    "word": "permission",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Permission is commonly used in business communication."
+  },
+  {
+    "id": 49,
+    "word": "access",
+    "topic": "Office & Administration",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Access is commonly used in business communication."
+  },
+  {
+    "id": 50,
+    "word": "conference",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 51,
+    "word": "discussion",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 52,
+    "word": "presentation",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 53,
+    "word": "negotiation",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 54,
+    "word": "briefing",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 55,
+    "word": "conference-call",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 56,
+    "word": "videoconference",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 57,
+    "word": "feedback",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 58,
+    "word": "proposal",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 59,
+    "word": "objection",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 60,
+    "word": "agreement",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 61,
+    "word": "consensus",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 62,
+    "word": "comment",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 63,
+    "word": "statement",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 64,
+    "word": "explanation",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 65,
+    "word": "announcement",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 66,
+    "word": "conversation",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 67,
+    "word": "message",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 68,
+    "word": "reply",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 69,
+    "word": "response",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 70,
+    "word": "discussion",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 71,
+    "word": "debate",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 72,
+    "word": "consultation",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 73,
+    "word": "coordination",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 74,
+    "word": "interaction",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 75,
+    "word": "conversation",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 76,
+    "word": "exchange",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 77,
+    "word": "notice",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 78,
+    "word": "communication",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 79,
+    "word": "instruction",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 80,
+    "word": "presentation",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 81,
+    "word": "summary",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 82,
+    "word": "overview",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 83,
+    "word": "outline",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 84,
+    "word": "clarification",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 85,
+    "word": "confirmation",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 86,
+    "word": "follow-up",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 87,
+    "word": "reminder",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 88,
+    "word": "invitation",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 89,
+    "word": "participation",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 90,
+    "word": "attendance",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 91,
+    "word": "speaker",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 92,
+    "word": "audience",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 93,
+    "word": "moderator",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 94,
+    "word": "chairperson",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 95,
+    "word": "discussion-point",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 96,
+    "word": "presentation-slide",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 97,
+    "word": "handout",
+    "topic": "Meetings & Communication",
+    "meaning": "thuật ngữ sử dụng trong môi trường doanh nghiệp liên quan đến họp, trao đổi và phối hợp công việc",
+    "example": "This term is commonly used during internal meetings and business discussions."
+  },
+  {
+    "id": 98,
+    "word": "customer",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Customer is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 99,
+    "word": "client",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Client is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 100,
+    "word": "prospect",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Prospect is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 101,
+    "word": "lead",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Lead is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 102,
+    "word": "promotion",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Promotion is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 103,
+    "word": "advertising",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Advertising is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 104,
+    "word": "campaign",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Campaign is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 105,
+    "word": "brand",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Brand is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 106,
+    "word": "market",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Market is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 107,
+    "word": "segment",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Segment is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 108,
+    "word": "pricing",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Pricing is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 109,
+    "word": "discount",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Discount is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 110,
+    "word": "offer",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Offer is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 111,
+    "word": "quotation",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Quotation is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 112,
+    "word": "proposal",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Proposal is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 113,
+    "word": "contract",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Contract is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 114,
+    "word": "deal",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Deal is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 115,
+    "word": "order",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Order is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 116,
+    "word": "purchase",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Purchase is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 117,
+    "word": "invoice",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Invoice is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 118,
+    "word": "revenue",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Revenue is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 119,
+    "word": "sales-target",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Sales-target is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 120,
+    "word": "commission",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Commission is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 121,
+    "word": "margin",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Margin is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 122,
+    "word": "distribution",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Distribution is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 123,
+    "word": "channel",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Channel is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 124,
+    "word": "retail",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Retail is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 125,
+    "word": "wholesale",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Wholesale is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 126,
+    "word": "strategy",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Strategy is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 127,
+    "word": "launch",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Launch is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 128,
+    "word": "positioning",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Positioning is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 129,
+    "word": "demand",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Demand is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 130,
+    "word": "supply",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Supply is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 131,
+    "word": "competition",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Competition is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 132,
+    "word": "competitor",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Competitor is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 133,
+    "word": "benchmark",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Benchmark is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 134,
+    "word": "forecast",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Forecast is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 135,
+    "word": "trend",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Trend is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 136,
+    "word": "growth",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Growth is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 137,
+    "word": "market-share",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Market-share is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 138,
+    "word": "customer-base",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Customer-base is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 139,
+    "word": "loyalty",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Loyalty is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 140,
+    "word": "feedback",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Feedback is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 141,
+    "word": "survey",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Survey is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 142,
+    "word": "promotion-plan",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Promotion-plan is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 143,
+    "word": "pricing-strategy",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Pricing-strategy is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 144,
+    "word": "sales-volume",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Sales-volume is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 145,
+    "word": "conversion",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Conversion is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 146,
+    "word": "leadership",
+    "topic": "Sales & Marketing",
+    "meaning": "thuật ngữ sử dụng trong hoạt động bán hàng và tiếp thị doanh nghiệp",
+    "example": "Leadership is frequently used in sales negotiations and marketing communications."
+  },
+  {
+    "id": 147,
+    "word": "budget",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 148,
+    "word": "profit",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 149,
+    "word": "loss",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 150,
+    "word": "expense",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 151,
+    "word": "revenue",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 152,
+    "word": "income",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 153,
+    "word": "payment",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 154,
+    "word": "transaction",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 155,
+    "word": "balance",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 156,
+    "word": "account",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 157,
+    "word": "statement",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 158,
+    "word": "report",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 159,
+    "word": "audit",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 160,
+    "word": "tax",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 161,
+    "word": "invoice",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 162,
+    "word": "receipt",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 163,
+    "word": "credit",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 164,
+    "word": "debit",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 165,
+    "word": "interest",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 166,
+    "word": "loan",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 167,
+    "word": "investment",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 168,
+    "word": "capital",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 169,
+    "word": "fund",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 170,
+    "word": "cashflow",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 171,
+    "word": "forecast",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 172,
+    "word": "cost",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 173,
+    "word": "pricing",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 174,
+    "word": "margin",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 175,
+    "word": "liability",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 176,
+    "word": "asset",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 177,
+    "word": "equity",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 178,
+    "word": "valuation",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 179,
+    "word": "expense-report",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 180,
+    "word": "financial-statement",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 181,
+    "word": "accounting",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 182,
+    "word": "bookkeeping",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 183,
+    "word": "compliance",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 184,
+    "word": "approval",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 185,
+    "word": "reimbursement",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 186,
+    "word": "allocation",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 187,
+    "word": "reserve",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 188,
+    "word": "provision",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 189,
+    "word": "expenditure",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 190,
+    "word": "income-statement",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 191,
+    "word": "balance-sheet",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 192,
+    "word": "audit-report",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 193,
+    "word": "forecasting",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 194,
+    "word": "currency",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 195,
+    "word": "exchange-rate",
+    "topic": "Finance & Accounting",
+    "meaning": "thuật ngữ sử dụng trong tài chính, kế toán và quản lý ngân sách doanh nghiệp",
+    "example": "This term often appears in financial reports and accounting documents."
+  },
+  {
+    "id": 196,
+    "word": "delivery",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Delivery is commonly used in business communication."
+  },
+  {
+    "id": 197,
+    "word": "shipment",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Shipment is commonly used in business communication."
+  },
+  {
+    "id": 198,
+    "word": "transport",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Transport is commonly used in business communication."
+  },
+  {
+    "id": 199,
+    "word": "logistics",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Logistics is commonly used in business communication."
+  },
+  {
+    "id": 200,
+    "word": "warehouse",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Warehouse is commonly used in business communication."
+  },
+  {
+    "id": 201,
+    "word": "inventory",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Inventory is commonly used in business communication."
+  },
+  {
+    "id": 202,
+    "word": "stock",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Stock is commonly used in business communication."
+  },
+  {
+    "id": 203,
+    "word": "supply-chain",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Supply-chain is commonly used in business communication."
+  },
+  {
+    "id": 204,
+    "word": "distribution",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Distribution is commonly used in business communication."
+  },
+  {
+    "id": 205,
+    "word": "freight",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Freight is commonly used in business communication."
+  },
+  {
+    "id": 206,
+    "word": "cargo",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Cargo is commonly used in business communication."
+  },
+  {
+    "id": 207,
+    "word": "customs",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Customs is commonly used in business communication."
+  },
+  {
+    "id": 208,
+    "word": "clearance",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Clearance is commonly used in business communication."
+  },
+  {
+    "id": 209,
+    "word": "container",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Container is commonly used in business communication."
+  },
+  {
+    "id": 210,
+    "word": "tracking",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Tracking is commonly used in business communication."
+  },
+  {
+    "id": 211,
+    "word": "dispatch",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Dispatch is commonly used in business communication."
+  },
+  {
+    "id": 212,
+    "word": "schedule",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Schedule is commonly used in business communication."
+  },
+  {
+    "id": 213,
+    "word": "delay",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Delay is commonly used in business communication."
+  },
+  {
+    "id": 214,
+    "word": "inspection",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Inspection is commonly used in business communication."
+  },
+  {
+    "id": 215,
+    "word": "handling",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Handling is commonly used in business communication."
+  },
+  {
+    "id": 216,
+    "word": "storage",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Storage is commonly used in business communication."
+  },
+  {
+    "id": 217,
+    "word": "packaging",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Packaging is commonly used in business communication."
+  },
+  {
+    "id": 218,
+    "word": "labeling",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Labeling is commonly used in business communication."
+  },
+  {
+    "id": 219,
+    "word": "documentation",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Documentation is commonly used in business communication."
+  },
+  {
+    "id": 220,
+    "word": "bill-of-lading",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Bill-of-lading is commonly used in business communication."
+  },
+  {
+    "id": 221,
+    "word": "invoice",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Invoice is commonly used in business communication."
+  },
+  {
+    "id": 222,
+    "word": "manifest",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Manifest is commonly used in business communication."
+  },
+  {
+    "id": 223,
+    "word": "insurance",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Insurance is commonly used in business communication."
+  },
+  {
+    "id": 224,
+    "word": "route",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Route is commonly used in business communication."
+  },
+  {
+    "id": 225,
+    "word": "carrier",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Carrier is commonly used in business communication."
+  },
+  {
+    "id": 226,
+    "word": "forwarder",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Forwarder is commonly used in business communication."
+  },
+  {
+    "id": 227,
+    "word": "consignment",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Consignment is commonly used in business communication."
+  },
+  {
+    "id": 228,
+    "word": "order-fulfillment",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Order-fulfillment is commonly used in business communication."
+  },
+  {
+    "id": 229,
+    "word": "lead-time",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Lead-time is commonly used in business communication."
+  },
+  {
+    "id": 230,
+    "word": "capacity",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Capacity is commonly used in business communication."
+  },
+  {
+    "id": 231,
+    "word": "availability",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Availability is commonly used in business communication."
+  },
+  {
+    "id": 232,
+    "word": "transportation",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Transportation is commonly used in business communication."
+  },
+  {
+    "id": 233,
+    "word": "coordination",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Coordination is commonly used in business communication."
+  },
+  {
+    "id": 234,
+    "word": "logistics-plan",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Logistics-plan is commonly used in business communication."
+  },
+  {
+    "id": 235,
+    "word": "distribution-center",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Distribution-center is commonly used in business communication."
+  },
+  {
+    "id": 236,
+    "word": "inventory-level",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Inventory-level is commonly used in business communication."
+  },
+  {
+    "id": 237,
+    "word": "stock-control",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Stock-control is commonly used in business communication."
+  },
+  {
+    "id": 238,
+    "word": "replenishment",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Replenishment is commonly used in business communication."
+  },
+  {
+    "id": 239,
+    "word": "delivery-note",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Delivery-note is commonly used in business communication."
+  },
+  {
+    "id": 240,
+    "word": "shipping-cost",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Shipping-cost is commonly used in business communication."
+  },
+  {
+    "id": 241,
+    "word": "freight-charge",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Freight-charge is commonly used in business communication."
+  },
+  {
+    "id": 242,
+    "word": "transport-provider",
+    "topic": "Logistics & Shipping",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Transport-provider is commonly used in business communication."
+  },
+  {
+    "id": 243,
+    "word": "employee",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Employee is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 244,
+    "word": "employer",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Employer is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 245,
+    "word": "recruitment",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Recruitment is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 246,
+    "word": "interview",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Interview is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 247,
+    "word": "candidate",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Candidate is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 248,
+    "word": "hiring",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Hiring is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 249,
+    "word": "training",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Training is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 250,
+    "word": "development",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Development is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 251,
+    "word": "performance",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Performance is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 252,
+    "word": "evaluation",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Evaluation is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 253,
+    "word": "promotion",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Promotion is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 254,
+    "word": "salary",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Salary is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 255,
+    "word": "wage",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Wage is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 256,
+    "word": "benefit",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Benefit is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 257,
+    "word": "compensation",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Compensation is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 258,
+    "word": "contract",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Contract is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 259,
+    "word": "policy",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Policy is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 260,
+    "word": "attendance",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Attendance is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 261,
+    "word": "leave",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Leave is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 262,
+    "word": "overtime",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Overtime is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 263,
+    "word": "discipline",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Discipline is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 264,
+    "word": "termination",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Termination is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 265,
+    "word": "resignation",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Resignation is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 266,
+    "word": "retention",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Retention is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 267,
+    "word": "motivation",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Motivation is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 268,
+    "word": "engagement",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Engagement is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 269,
+    "word": "workforce",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Workforce is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 270,
+    "word": "staffing",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Staffing is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 271,
+    "word": "headcount",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Headcount is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 272,
+    "word": "organization",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Organization is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 273,
+    "word": "structure",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Structure is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 274,
+    "word": "management",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Management is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 275,
+    "word": "leadership",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Leadership is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 276,
+    "word": "supervisor",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Supervisor is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 277,
+    "word": "manager",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Manager is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 278,
+    "word": "appraisal",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Appraisal is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 279,
+    "word": "feedback",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Feedback is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 280,
+    "word": "objective",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Objective is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 281,
+    "word": "goal",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Goal is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 282,
+    "word": "responsibility",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Responsibility is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 283,
+    "word": "compliance",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Compliance is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 284,
+    "word": "ethics",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Ethics is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 285,
+    "word": "conduct",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Conduct is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 286,
+    "word": "diversity",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Diversity is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 287,
+    "word": "inclusion",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Inclusion is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 288,
+    "word": "onboarding",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Onboarding is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 289,
+    "word": "orientation",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Orientation is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 290,
+    "word": "succession",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Succession is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 291,
+    "word": "planning",
+    "topic": "Human Resources",
+    "meaning": "thuật ngữ sử dụng trong quản lý nhân sự và vận hành doanh nghiệp",
+    "example": "Planning is commonly used in HR policies and internal communications."
+  },
+  {
+    "id": 292,
+    "word": "strategy",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Strategy is commonly used in business communication."
+  },
+  {
+    "id": 293,
+    "word": "planning",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Planning is commonly used in business communication."
+  },
+  {
+    "id": 294,
+    "word": "objective",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Objective is commonly used in business communication."
+  },
+  {
+    "id": 295,
+    "word": "goal",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Goal is commonly used in business communication."
+  },
+  {
+    "id": 296,
+    "word": "vision",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Vision is commonly used in business communication."
+  },
+  {
+    "id": 297,
+    "word": "mission",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Mission is commonly used in business communication."
+  },
+  {
+    "id": 298,
+    "word": "leadership",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Leadership is commonly used in business communication."
+  },
+  {
+    "id": 299,
+    "word": "management",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Management is commonly used in business communication."
+  },
+  {
+    "id": 300,
+    "word": "decision",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Decision is commonly used in business communication."
+  },
+  {
+    "id": 301,
+    "word": "analysis",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Analysis is commonly used in business communication."
+  },
+  {
+    "id": 302,
+    "word": "assessment",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Assessment is commonly used in business communication."
+  },
+  {
+    "id": 303,
+    "word": "evaluation",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Evaluation is commonly used in business communication."
+  },
+  {
+    "id": 304,
+    "word": "performance",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Performance is commonly used in business communication."
+  },
+  {
+    "id": 305,
+    "word": "efficiency",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Efficiency is commonly used in business communication."
+  },
+  {
+    "id": 306,
+    "word": "effectiveness",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Effectiveness is commonly used in business communication."
+  },
+  {
+    "id": 307,
+    "word": "productivity",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Productivity is commonly used in business communication."
+  },
+  {
+    "id": 308,
+    "word": "optimization",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Optimization is commonly used in business communication."
+  },
+  {
+    "id": 309,
+    "word": "innovation",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Innovation is commonly used in business communication."
+  },
+  {
+    "id": 310,
+    "word": "development",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Development is commonly used in business communication."
+  },
+  {
+    "id": 311,
+    "word": "growth",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Growth is commonly used in business communication."
+  },
+  {
+    "id": 312,
+    "word": "expansion",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Expansion is commonly used in business communication."
+  },
+  {
+    "id": 313,
+    "word": "risk",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Risk is commonly used in business communication."
+  },
+  {
+    "id": 314,
+    "word": "opportunity",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Opportunity is commonly used in business communication."
+  },
+  {
+    "id": 315,
+    "word": "challenge",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Challenge is commonly used in business communication."
+  },
+  {
+    "id": 316,
+    "word": "solution",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Solution is commonly used in business communication."
+  },
+  {
+    "id": 317,
+    "word": "implementation",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Implementation is commonly used in business communication."
+  },
+  {
+    "id": 318,
+    "word": "execution",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Execution is commonly used in business communication."
+  },
+  {
+    "id": 319,
+    "word": "monitoring",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Monitoring is commonly used in business communication."
+  },
+  {
+    "id": 320,
+    "word": "control",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Control is commonly used in business communication."
+  },
+  {
+    "id": 321,
+    "word": "governance",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Governance is commonly used in business communication."
+  },
+  {
+    "id": 322,
+    "word": "policy",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Policy is commonly used in business communication."
+  },
+  {
+    "id": 323,
+    "word": "framework",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Framework is commonly used in business communication."
+  },
+  {
+    "id": 324,
+    "word": "structure",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Structure is commonly used in business communication."
+  },
+  {
+    "id": 325,
+    "word": "organization",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Organization is commonly used in business communication."
+  },
+  {
+    "id": 326,
+    "word": "coordination",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Coordination is commonly used in business communication."
+  },
+  {
+    "id": 327,
+    "word": "alignment",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Alignment is commonly used in business communication."
+  },
+  {
+    "id": 328,
+    "word": "benchmark",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Benchmark is commonly used in business communication."
+  },
+  {
+    "id": 329,
+    "word": "forecast",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Forecast is commonly used in business communication."
+  },
+  {
+    "id": 330,
+    "word": "scenario",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Scenario is commonly used in business communication."
+  },
+  {
+    "id": 331,
+    "word": "initiative",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Initiative is commonly used in business communication."
+  },
+  {
+    "id": 332,
+    "word": "priority",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Priority is commonly used in business communication."
+  },
+  {
+    "id": 333,
+    "word": "resource",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Resource is commonly used in business communication."
+  },
+  {
+    "id": 334,
+    "word": "allocation",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Allocation is commonly used in business communication."
+  },
+  {
+    "id": 335,
+    "word": "investment",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Investment is commonly used in business communication."
+  },
+  {
+    "id": 336,
+    "word": "return",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Return is commonly used in business communication."
+  },
+  {
+    "id": 337,
+    "word": "stakeholder",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Stakeholder is commonly used in business communication."
+  },
+  {
+    "id": 338,
+    "word": "partnership",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Partnership is commonly used in business communication."
+  },
+  {
+    "id": 339,
+    "word": "collaboration",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Collaboration is commonly used in business communication."
+  },
+  {
+    "id": 340,
+    "word": "sustainability",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Sustainability is commonly used in business communication."
+  },
+  {
+    "id": 341,
+    "word": "long-term",
+    "topic": "Management & Strategy",
+    "meaning": "thuật ngữ sử dụng trong môi trường kinh doanh",
+    "example": "Long-term is commonly used in business communication."
+  }
+]
